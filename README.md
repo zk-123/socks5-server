@@ -1,7 +1,7 @@
-### env
+### Env
 + JDK 1.7+
 
-### usage
+### Usage
 
 #### no auth usage
 ```
@@ -19,3 +19,5 @@ java -jar socks5-server.jar -p 2190 -a s5://emhhbmdzYW46MTIzNDU2
 ```
 java -jar socks5-server.jar -h
 ```
+
+> more info [socks5 wiki](https://github.com/zk-123/socks5-server/wiki/Socks5%E5%8D%8F%E8%AE%AE)
