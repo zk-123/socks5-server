@@ -1,7 +1,7 @@
-### Env
+### env
 + JDK 1.7+
 
-### Usage
+### usage
 
 #### no auth usage
 ```
