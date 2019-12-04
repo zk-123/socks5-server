@@ -53,7 +53,7 @@
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <configuration>
-                    <finalName>socks5-proxy-${version}-release</finalName>
+                    <finalName>socks5-server-${version}</finalName>
                     <archive>
                         <manifest>
                             <mainClass>com.zkdcloud.proxy.socks5.ServerStart</mainClass>
